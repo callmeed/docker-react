@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Do we <em>really</em> need React? Nah!
+          learn react
         </a>
       </header>
     </div>
